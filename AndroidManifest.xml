@@ -51,20 +51,6 @@
 	       	</intent-filter>
        	</receiver>
         
-        
-        
-<!--	<service android:name="edu.mit.media.funf.storage.HttpUploadService"></service> 	-->
-        
-<!--	<service android:name = ".FunfLoggerService"></service>	-->
-        
-<!--	<activity android:name="org.contextlogger.android.PreferencesActivity" android:screenOrientation="portrait"/>	-->
-<!--	<service
-        	android:enabled = "true"
-        	android:exported = "false"
-        	android:name = "org.contextlogger.android.LoggerService"
-        />
--->
-<!-- android:process = "com.contextlogger.android.logger" --> 
 <!--
         <receiver android:name="org.contextlogger.android.sensors.CustomIntentSensor" android:enabled="true">
             <intent-filter>
