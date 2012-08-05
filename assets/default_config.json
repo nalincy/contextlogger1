@@ -1,6 +1,6 @@
 {       
     "name": "WifiScanner",
-    "version":1,
+    "version":2,
     "configUpdateUrl":"http:\/\/jimu.cs.hut.fi:8080\/SQLiteDBFileReceiver\/receiver",
     "configUpdatePeriod":7200,
     "dataArchivePeriod":1800,
